@@ -1,7 +1,7 @@
 {
 	"identifier": "level_2",
 	"uniqueIdentifer": "84d6af90-1460-11ee-930e-77228a0083e8",
-	"x": 512,
+	"x": 256,
 	"y": 0,
 	"width": 256,
 	"height": 256,
@@ -16,7 +16,7 @@
 			"dir": "e"
 		},
 		{
-			"levelIid": "8c0a40b0-1460-11ee-930e-e7848fdef284",
+			"levelIid": "8b11d6f0-1460-11ee-930e-c1d94757bcb7",
 			"dir": "s"
 		}
 	],

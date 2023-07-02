@@ -11,7 +11,7 @@
 	"identifier": "level_0",
 	"iid": "26de8512-1460-11ee-904a-7ba0513bbaee",
 	"uid": 0,
-	"worldX": 0,
+	"worldX": -256,
 	"worldY": 0,
 	"worldDepth": 0,
 	"pxWid": 256,
@@ -216,5 +216,5 @@
 			"entityInstances": []
 		}
 	],
-	"__neighbours": [ { "levelIid": "5fabea50-1460-11ee-930e-bb7e6dacf947", "dir": "e" }, { "levelIid": "89f2ab50-1460-11ee-930e-c5980129954f", "dir": "s" } ]
+	"__neighbours": [{ "levelIid": "5fabea50-1460-11ee-930e-bb7e6dacf947", "dir": "e" }]
 }
