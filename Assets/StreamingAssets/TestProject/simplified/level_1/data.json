@@ -1,0 +1,28 @@
+{
+	"identifier": "level_1",
+	"uniqueIdentifer": "5fabea50-1460-11ee-930e-bb7e6dacf947",
+	"x": 256,
+	"y": 0,
+	"width": 256,
+	"height": 256,
+	"bgColor": "#696A79",
+	"neighbourLevels": [
+		{
+			"levelIid": "26de8512-1460-11ee-904a-7ba0513bbaee",
+			"dir": "w"
+		},
+		{
+			"levelIid": "84d6af90-1460-11ee-930e-77228a0083e8",
+			"dir": "e"
+		},
+		{
+			"levelIid": "8b11d6f0-1460-11ee-930e-c1d94757bcb7",
+			"dir": "s"
+		}
+	],
+	"customFields" : {},
+	"layers": [
+		"autolayer.png"
+	],
+	"entities" : {}
+}

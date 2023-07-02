@@ -1,7 +1,7 @@
 {
-	"identifier": "level_0",
-	"uniqueIdentifer": "26de8512-1460-11ee-904a-7ba0513bbaee",
-	"x": 0,
+	"identifier": "level_2",
+	"uniqueIdentifer": "84d6af90-1460-11ee-930e-77228a0083e8",
+	"x": 512,
 	"y": 0,
 	"width": 256,
 	"height": 256,
@@ -9,10 +9,14 @@
 	"neighbourLevels": [
 		{
 			"levelIid": "5fabea50-1460-11ee-930e-bb7e6dacf947",
+			"dir": "w"
+		},
+		{
+			"levelIid": "87250c60-1460-11ee-930e-e3831297f9b8",
 			"dir": "e"
 		},
 		{
-			"levelIid": "89f2ab50-1460-11ee-930e-c5980129954f",
+			"levelIid": "8c0a40b0-1460-11ee-930e-e7848fdef284",
 			"dir": "s"
 		}
 	],

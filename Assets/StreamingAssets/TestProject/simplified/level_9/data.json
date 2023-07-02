@@ -1,0 +1,24 @@
+{
+	"identifier": "level_9",
+	"uniqueIdentifer": "8d404fb0-1460-11ee-930e-b5651d9d4f7a",
+	"x": 1024,
+	"y": 256,
+	"width": 256,
+	"height": 256,
+	"bgColor": "#696A79",
+	"neighbourLevels": [
+		{
+			"levelIid": "8827af50-1460-11ee-930e-bfc0b6b57bfe",
+			"dir": "n"
+		},
+		{
+			"levelIid": "8cb26790-1460-11ee-930e-b5d554c7c7f7",
+			"dir": "w"
+		}
+	],
+	"customFields" : {},
+	"layers": [
+		"autolayer.png"
+	],
+	"entities" : {}
+}
