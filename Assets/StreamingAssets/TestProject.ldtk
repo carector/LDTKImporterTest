@@ -37,7 +37,7 @@
 	"levelNamePattern": "Level_%idx",
 	"tutorialDesc": null,
 	"customCommands": [],
-	"flags": [],
+	"flags": ["IgnoreBackupSuggest"],
 	"defs": { "layers": [
 		{
 			"__type": "AutoLayer",
@@ -635,25 +635,6 @@
 			"fieldDefs": []
 		}
 	], "tilesets": [
-		{
-			"__cWid": 17,
-			"__cHei": 13,
-			"identifier": "oceantiles12",
-			"uid": 3,
-			"relPath": "../Sprites/OceanTiles1.png",
-			"embedAtlas": null,
-			"pxWid": 272,
-			"pxHei": 208,
-			"tileGridSize": 16,
-			"spacing": 0,
-			"padding": 0,
-			"tags": [],
-			"tagsSourceEnumUid": null,
-			"enumTags": [],
-			"customData": [],
-			"savedSelections": [],
-			"cachedPixelData": null
-		},
 		{
 			"__cWid": 8,
 			"__cHei": 8,
