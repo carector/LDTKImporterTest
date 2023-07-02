@@ -1,0 +1,15 @@
+{
+	"identifier": "level_0",
+	"uniqueIdentifer": "26de8512-1460-11ee-904a-7ba0513bbaee",
+	"x": 0,
+	"y": 0,
+	"width": 256,
+	"height": 256,
+	"bgColor": "#696A79",
+	"neighbourLevels": [],
+	"customFields" : {},
+	"layers": [
+		"autolayer.png"
+	],
+	"entities" : {}
+}
